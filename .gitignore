@@ -1,0 +1,14 @@
+
+# Секреты и настройки окружения
+.env
+
+# Виртуальное окружение Python
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Кэш pytest
+.pytest_cache/
